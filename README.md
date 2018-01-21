@@ -4,8 +4,8 @@ Kick back and relax !
 
 VHS is an uninterrupted stream of YouTube(TM) videos, a visual overdose of creative and original content crossing all genres and times. It is for the late nights, for the parties, in the background at work. You can enjoy it on your Mobile, Laptop, and even your Smart TV.
 
-It is programmed by us for you.
-Please get in touch, more is coming.
+It is programmed by us for you.  
+Please get in touch, more is coming.  
 
 ![Screenshot1](https://lh3.googleusercontent.com/VTYoFyY0Cea8Q9bCirwXtrdCOK2xkG2l2_sAgAEvtqvgDYnY5mav0b_A9ZjSI3RMRn8=h900-rw)
 ![Screenshot2](https://lh3.googleusercontent.com/g-WKszMPwxEtFjtOYaqscT9iRmpyCmyNa2YlHy6dN3BSB7L3i4gWQMrSLbU0YkhCMA=h900-rw)
