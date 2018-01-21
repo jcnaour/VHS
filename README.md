@@ -1,4 +1,4 @@
-# vhs
+# VHS
 
 Kick back and relax !
 
