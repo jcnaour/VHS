@@ -7,7 +7,7 @@ VHS is an uninterrupted stream of YouTube(TM) videos, a visual overdose of creat
 It is programmed by us for you.  
 Please get in touch, more is coming.  
 
-Just Visit http://jcnaour.com/vhs/ on your device.
+Just Visit http://jcnaour.com/vhs/ on your device.  
 This git will share latest standalone version for MacOS & Windows.
 
 ![Screenshot1](https://lh3.googleusercontent.com/VTYoFyY0Cea8Q9bCirwXtrdCOK2xkG2l2_sAgAEvtqvgDYnY5mav0b_A9ZjSI3RMRn8=h900-rw)
